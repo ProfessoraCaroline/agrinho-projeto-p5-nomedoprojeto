@@ -1,0 +1,1 @@
+*Aqui é onde você vai descrever seu projeto, diga os detalhes, o que é o seu jogo, como você quer que ele funcione, diga como ele vai usar. Coloque as referências, sites que usaram, se usaram inteligência artificial, código de outras partes (quais).
